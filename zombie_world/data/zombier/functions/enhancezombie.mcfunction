@@ -1,0 +1,12 @@
+effect give @e[type=minecraft:zombie] speed 10 1 true
+effect give @e[type=minecraft:zombie] resistance 10 1 true
+effect give @e[type=minecraft:zombie] strength 10 1
+effect give @e[type=minecraft:husk] speed 10 1 true
+effect give @e[type=minecraft:husk] resistance 10 1 true
+effect give @e[type=minecraft:husk] strength 10 1
+effect give @e[type=minecraft:zombie_villager] speed 10 1 true
+effect give @e[type=minecraft:zombie_villager] resistance 10 1 true
+effect give @e[type=minecraft:zombie_villager] strength 10 1
+effect give @e[type=minecraft:drowned] speed 10 1 true
+effect give @e[type=minecraft:drowned] resistance 10 1 true
+effect give @e[type=minecraft:drowned] strength 10 1

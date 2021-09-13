@@ -1,0 +1,16 @@
+execute at @e[type=minecraft:skeleton] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:skeleton] run kill @s
+execute at @e[type=minecraft:spider] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:spider] run kill @s
+execute at @e[type=minecraft:creeper] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:creeper] run kill @s
+execute at @e[type=minecraft:cave_spider] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:cave_spider] run kill @s
+execute at @e[type=minecraft:enderman] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:enderman] run kill @s
+execute at @e[type=minecraft:slime] run summon zombie ~ ~ ~
+execute as @e[type=minecraft:slime] run kill @s
+execute at @e[type=minecraft:guardian] run summon drowned ~ ~ ~
+execute as @e[type=minecraft:guardian] run kill @s
+execute at @e[type=minecraft:elder_guardian] run summon drowned ~ ~ ~
+execute as @e[type=minecraft:elder_guardian] run kill @s
